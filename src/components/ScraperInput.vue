@@ -90,7 +90,7 @@ export default {
   name: "scraper-input",
   data() {
     return {
-      domainURL: "http://localhost:5173", // "https://wikipedia-scraper-vmuk.onrender.com", //
+      domainURL: "https://wikipedia-scraper-client.vercel.app", //"http://localhost:5173", // 
       wikiURL: "https://en.wikipedia.org/wiki/",
       serverURL: "https://wikipedia-scraper-vmuk.onrender.com",
       inputURL: "",
